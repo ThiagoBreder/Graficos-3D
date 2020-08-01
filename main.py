@@ -5,10 +5,6 @@ import math
 # Variaveis globais
 angulo = 0
 
-fov = 90
-near = 0.1
-far = 1000
-
 matrix_de_projecao = [[1,0,0],
 					  [0,1,0]]
 
